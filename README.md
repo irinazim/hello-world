@@ -1,6 +1,6 @@
 # hello-world
 test
 Irina's test file
-one
-two
-lines
+one line
+two line
+2 lines
